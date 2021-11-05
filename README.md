@@ -1,1 +1,1 @@
-# Análise do Website ArtStation
+https://github.com/pabloosegat/artstation-analise/wiki
